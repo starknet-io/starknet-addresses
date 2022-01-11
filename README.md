@@ -16,9 +16,8 @@ expected to be useful for multiple projects.
 
 ## Bridged Tokens
 
-Under the bridged token addresses folders you will find Json files (one per network, currently only
-Goerli) containing the addresses of the tokens currently bridged to StarkNet. Each token has the
-following parameters:
+Under the bridged token addresses folders you will find Json files (one per network) containing the
+addresses of the tokens currently bridged to StarkNet. Each token has the following parameters:
 
 * Name: name of the token
 * Symbol: token symbol

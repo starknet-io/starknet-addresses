@@ -16,21 +16,13 @@ expected to be useful for multiple projects.
 
 ## Bridged Tokens
 
-Here you will find the list of bridged ERC-20 tokens in StarkNet, alongside the relevant contract
-addresses.
+Under the bridged token addresses folders you will find Json files (one per network) containing the
+addresses of the tokens currently bridged to StarkNet. Each token has the following parameters:
 
-### Wrapped Ether (WETH)
-
-This is the standard ERC20 represneting ETH in StarkNet
-
-* StarkNet testnet: [0x03188903406daaaedd123598a8bd1f5dbec34720089037f4bf1473e51857e190](https://goerli.voyager.online/contract/0x03188903406daaaedd123598a8bd1f5dbec34720089037f4bf1473e51857e190)
-
-#### ETH-Bridge
-
-This is Starkware's token bridge implementation, allowing the transfer ETH between StarkNet and
-Ethereum.
-
-* L1 contracts:
-    * Goerli: [0x7419275fe04ab65c9c9FB8bCB21601A4A34BF1b9](https://goerli.etherscan.io/address/0x7419275fe04ab65c9c9fb8bcb21601a4a34bf1b9)
-* L2 contracts:
-    * testnet: [0x012291a5bcd1b08e237047277a6055aec5a33d0e15610f869d517575ca983a82](https://goerli.voyager.online/contract/0x012291a5bcd1b08e237047277a6055aec5a33d0e15610f869d517575ca983a82)
+* Name: name of the token
+* Symbol: token symbol
+* Decimals: number of decimals used to get the user representation
+* l1_token_address: address of the L1 ERC-20 contract
+* l2_token_address: address of the L2 ERC-20 contract
+* l1_bridge_address: address of the L1 bridge contract
+* l2_bridge_address: address of the L2 bridge contract

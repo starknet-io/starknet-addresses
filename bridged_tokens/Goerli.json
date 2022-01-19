@@ -12,7 +12,7 @@
         "name": "Goerli USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "l1_token_address": "0x2f3A40A3db8a7e3D09B0adfEfbCe4f6F81927557",
+        "l1_token_address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
         "l2_token_address": "0x77367abf77245c0e74728e4f9dc7c944b2bc5c1bdb6902575ff97aea7653842",
         "l1_bridge_address": "0xc175127A2AA180F48D47fC20e6ED581Bd9c369c7",
         "l2_bridge_address": "0x28248893ca3bab78fe7b0a053d3ddc450c291f3572e175699dbd1f7076dc800"

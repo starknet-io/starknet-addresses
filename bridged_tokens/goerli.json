@@ -12,10 +12,10 @@
         "name": "Goerli USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "l1_token_address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
-        "l2_token_address": "0x77367abf77245c0e74728e4f9dc7c944b2bc5c1bdb6902575ff97aea7653842",
-        "l1_bridge_address": "0xc175127A2AA180F48D47fC20e6ED581Bd9c369c7",
-        "l2_bridge_address": "0x28248893ca3bab78fe7b0a053d3ddc450c291f3572e175699dbd1f7076dc800"
+        "token_address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
+        "l2_bridge_address": "0x001d5b64feabc8ac7c839753994f469704c6fabdd45c8fe6d26ed57b5eb79057",
+        "l2_token_address": "0x005a643907b9a4bc6a55e9069c4fd5fd1f5c79a22470690f75556c4736e34426",
+        "l1_bridge_address": "0xBA9cE9F22A3Cfa7Fcb5c31f6B2748b1e72C06204"
     },
     {
         "name": "Tether USD",

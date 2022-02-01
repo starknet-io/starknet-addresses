@@ -52,5 +52,15 @@
         "l2_token_address": "0x2dd93e385742984bf2fc887cd5d8b5ec6917d80af09cf7a00a63710ad51ba53",
         "l1_bridge_address": "0xcf98f0A8edC6a730E1CA6B64a2528c6bE031Cb12",
         "l2_bridge_address": "0x30fab1f1cc35d6ab0a992240528e122bc46c196eebfed9d21a5f800f72f066d"
-    }
+    },
+    {
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "l1_token_address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+        "l2_bridge_address": "0x015605ab0d2a2883dd72fe014bb997578fe8ce73caa91d1c0973a68efc6a43c5",
+        "l2_token_address": "0x00da19dab05e9f3cd09c3aa0d8046415b3d7f7dbbd83e1c2e4946792298fbe28",
+        "l1_bridge_address": "0x3ebB6C28BD63aDa2feA81f1e6c5a50aFe53B5feE"
+    },
+
 ]

@@ -27,24 +27,6 @@
         "l2_bridge_address": "0x71d54658ca3c6ccd84ff958adb7498b2e71ba008e29b643983221ed2bd71b69"
     },
     {
-        "name": "MagicInternetMoney",
-        "symbol": "MIM",
-        "decimals": 18,
-        "l1_token_address": "0x86124F8CF3C4AB702cEF895483067e46CE8764f9",
-        "l2_token_address": "0x1dd62766ff2a0d3b996857e6a04490c74649386dc52dc4b6153b9acf5f4cae3",
-        "l1_bridge_address": "0x865C602d591eB18e946e9edF73895F6e699EB118",
-        "l2_bridge_address": "0x341747554ec54280d2e92eab57295055955fd1e8ec2292910163ca60c85e74f"
-    },
-    {
-        "name": "Frax",
-        "symbol": "FRAX",
-        "decimals": 18,
-        "l1_token_address": "0xBd97097dF545cc9734b96A5f3C5b1752C9179649",
-        "l2_token_address": "0x1a53260bb912e49d668ae4ea8c4b5c1ebf1441f2acc1fd7fde74836738ed8da",
-        "l1_bridge_address": "0x9818b35b62B1B394614f97b5e8BC158907E4eb1C",
-        "l2_bridge_address": "0x254e681ffbf99c79e9e56aa38b2212914cadafa97d6c4f470589b1d43932a5f"
-    },
-    {
         "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,
@@ -62,5 +44,4 @@
         "l2_token_address": "0x00da19dab05e9f3cd09c3aa0d8046415b3d7f7dbbd83e1c2e4946792298fbe28",
         "l1_bridge_address": "0x3ebB6C28BD63aDa2feA81f1e6c5a50aFe53B5feE"
     },
-
 ]

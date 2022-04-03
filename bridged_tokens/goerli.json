@@ -27,6 +27,15 @@
         "l2_bridge_address": "0x71d54658ca3c6ccd84ff958adb7498b2e71ba008e29b643983221ed2bd71b69"
     },
     {
+        "name": "SelfService",
+        "symbol": "SLF",
+        "decimals": 6,
+        "token_address": "0xd44BB808bfE43095dBb94c83077766382D63952a",
+        "l2_bridge_address": "0x00fd2a9843c19436542e0ac7fc7b5cbf1d0b69fc2abea6d68591e46a5ca2d75a",
+        "l2_token_address": "0x07a39a50bf689e9430fc81fba0f4d46e245e1657e77455548ed7e32c808cfc10",
+        "l1_bridge_address": "0x160e7631f22035149A01420cADD1012267551181"
+    },
+    {
         "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,

@@ -1,4 +1,4 @@
-# Usefull contracts
+# Useful contracts
 
 These are contracts that are either part of the underlying protocol or
 expected to be useful for multiple projects.

@@ -40,7 +40,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "l1_token_address": "0x0000000000000000000000000000000000000000",
-        "l2_token_address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+        "l2_token_address": "0x07394cbe418daa16e42b87ba67372d4ab4a5df0b05c6e554d158458ce245bc10",
         "l1_bridge_address": "0xc3511006C04EF1d78af4C8E0e74Ec18A6E64Ff9e",
         "l2_bridge_address": "0x073314940630fd6dcda0d772d4c972c4e0a9946bef9dabf4ef84eda8ef542b82"
     },

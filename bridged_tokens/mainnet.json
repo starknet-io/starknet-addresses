@@ -40,8 +40,8 @@
         "symbol": "DAI",
         "decimals": 18,
         "l1_token_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "l2_bridge_address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
+        "l2_bridge_address": "0x075ac198e734e289a6892baa8dd14b21095f13bf8401900f5349d5569c3f6e60",
         "l2_token_address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
-        "l1_bridge_address": "0x659a00c33263d9254Fed382dE81349426C795BB6"
+        "l1_bridge_address": "0x9F96fE0633eE838D0298E8b8980E6716bE81388d"
     }
 ]

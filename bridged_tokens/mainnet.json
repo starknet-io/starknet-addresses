@@ -43,5 +43,14 @@
         "l2_bridge_address": "0x001108cdbe5d82737b9057590adaf97d34e74b5452f0628161d237746b6fe69e",
         "l2_token_address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
         "l1_bridge_address": "0x659a00c33263d9254Fed382dE81349426C795BB6"
+    },
+        {
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "l1_token_address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+        "l2_bridge_address": "0x03073e7ab30ee00e2da9cf96e4a5490c8e00bdf018df1ff5f3679c30ef1cb014",
+        "l2_token_address": "0x05ef98e7dc5865f49bcec200df508d27669b3ef7f9d2439decd127350359f291",
+        "l1_bridge_address": "0x82596004A4566fB1E47886EA34fB94F695ea8d6c"
     }
 ]

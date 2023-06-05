@@ -11,7 +11,7 @@ expected to be useful for multiple projects.
     * Mainnet: [0xc662c410C0ECf747543f5bA90660f6ABeBD9C8c4](https://etherscan.io/address/0xc662c410C0ECf747543f5bA90660f6ABeBD9C8c4)
 
 * Verifier
-    * Goerli: [0xAB43bA48c9edF4C2C4bB01237348D1D7B28ef168](https://goerli.etherscan.io/address/0xAB43bA48c9edF4C2C4bB01237348D1D7B28ef168)
+    * Goerli: [0x8f97970aC5a9aa8D130d35146F5b59c4aef57963](https://goerli.etherscan.io/address/0x8f97970aC5a9aa8D130d35146F5b59c4aef57963)
     * Mainnet: [0x47312450B3Ac8b5b8e247a6bB6d523e7605bDb60](https://etherscan.io/address/0x47312450B3Ac8b5b8e247a6bB6d523e7605bDb60)
 
 ## Bridged Tokens

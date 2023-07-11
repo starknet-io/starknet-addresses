@@ -49,9 +49,9 @@
         "symbol": "wstETH",
         "decimals": 18,
         "l1_token_address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
-        "l1_bridge_address": "0x82596004A4566fB1E47886EA34fB94F695ea8d6c",
-        "l2_bridge_address": "0x03073e7ab30ee00e2da9cf96e4a5490c8e00bdf018df1ff5f3679c30ef1cb014",
-        "l2_token_address": "0x05ef98e7dc5865f49bcec200df508d27669b3ef7f9d2439decd127350359f291"
+        "l1_bridge_address": "0xBf67F59D2988A46FBFF7ed79A621778a3Cd3985B",
+        "l2_bridge_address": "0x0088eedbe2fe3918b69ccb411713b7fa72079d4eddf291103ccbe41e78a9615c",
+        "l2_token_address": "0x42b8f0484674ca266ac5d08e4ac6a3fe65bd3129795def2dca5c34ecc5f96d2"
     },
     {
         "name": "Rocket Pool ETH",

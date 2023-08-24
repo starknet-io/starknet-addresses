@@ -61,5 +61,41 @@
         "l1_bridge_address": "0xcf58536D6Fab5E59B654228a5a4ed89b13A876C2",
         "l2_bridge_address": "0x0078da8023b3c08e5a41540a34f7c385fd4f4540d5668f1be3ede0d3bb1b9d4d",
         "l2_token_address": "0x0319111a5037cbec2b3e638cc34a3474e2d2608299f3e62866e9cc683208c610"
+    },
+    {
+        "name": "R Stablecoin",
+        "symbol": "R",
+        "decimals": 18,
+        "l1_token_address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
+        "l2_token_address": "0x01fa2fb85f624600112040e1f3a848f53a37ed5a7385810063d5fe6887280333",
+        "l1_bridge_address": "0xb27d0dCAFd63db302C155c8864886f33BD2a41E5",
+        "l2_bridge_address": "0x00b0cefce685e321eba324fac1c8e2db768892bc1ddb8375fe40fd269fa69fb2"
+    },
+    {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "l1_token_address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+        "l2_token_address": "0x009c6b4fb13dfaa025c1383ed6190af8ed8cbb09d9588a3bb020feb152442406",
+        "l1_bridge_address": "0xDc687e1E0B85CB589b2da3C47c933De9Db3d1ebb",
+        "l2_bridge_address": "0x006646a87b8e9e51a893c52facd89f99539a152b96e72daee6a7a3734aa5299a"
+    },
+    {
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "l1_token_address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "l2_token_address": "0x0058efd0e73c33a848ffaa88738d128ebf0af98ea78cf3c14dc757bb02d39ffb",
+        "l1_bridge_address": "0x66ba83ba3D3AD296424a2258145d9910E9E40B7C",
+        "l2_bridge_address": "0x06bf25c0911c6c63abfe3600428144d0d0dbf8b7bfbc44306a3386aa95a24296"
+    },
+    {
+        "name": "Staked Frax Ether",
+        "symbol": "sfrxETH",
+        "decimals": 18,
+        "l1_token_address": "0xac3E018457B222d93114458476f3E3416Abbe38F",
+        "l2_token_address": "0x04578fffc279e61b5cb0267a5f8e24b6089d40f93158fbbad2cb23b8622c9233",
+        "l1_bridge_address": "0xd8E8531fdD446DF5298819d3Bc9189a5D8948Ee8",
+        "l2_bridge_address": "0x06dcc61c4cf056ff42a8f4b8635c207e3da73332282aa2132058022520fa0179"
     }
 ]

@@ -53,4 +53,13 @@
         "l2_token_address": "0x03e85bfbb8e2a42b7bead9e88e9a1b19dbccf661471061807292120462396ec9",
         "l1_bridge_address": "0xd8beAa22894Cd33F24075459cFba287a10a104E4"
     },
+    {
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD",
+        "decimals": 18,
+        "l1_token_address": "0x76ea225E132609D387464e11ce5EFA1764A3799B",
+        "l2_bridge_address": "0x02edc855e8e45fa1826d53a144c080fd41bb33f9468190cf60089f45cbc3c223",
+        "l2_token_address": "0x025731f5f9629ff74d1c5f787ad1ea0ebb9157210047f6c9e3a974f771550cf4",
+        "l1_bridge_address": "0xc2AFba3f4f6a88Ad738aa0e9cf746B38370415a4"
+    }
 ]

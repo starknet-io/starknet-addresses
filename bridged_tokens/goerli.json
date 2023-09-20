@@ -61,5 +61,14 @@
         "l2_bridge_address": "0x02edc855e8e45fa1826d53a144c080fd41bb33f9468190cf60089f45cbc3c223",
         "l2_token_address": "0x025731f5f9629ff74d1c5f787ad1ea0ebb9157210047f6c9e3a974f771550cf4",
         "l1_bridge_address": "0xc2AFba3f4f6a88Ad738aa0e9cf746B38370415a4"
+    },
+    {
+        "name": "R Stablecoin",
+        "symbol": "R",
+        "decimals": 18,
+        "l1_token_address": "0x9b41fE4EE4F23507953CCA339A4eC27eAc9e02b8",
+        "l2_bridge_address": "0x060fbf0392c84eae8bf3d5a79e29e6f250933fabeab00cef13c8f1a68c1cca6f",
+        "l2_token_address": "0x02c479575aa7399ca4757927c02a71334ff6f1b12693fa9043cf9f49b83d0000",
+        "l1_bridge_address": "0xe2969b9d9de178cccc7199234d3e0543da3a7733"
     }
 ]

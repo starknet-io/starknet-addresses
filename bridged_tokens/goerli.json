@@ -70,5 +70,14 @@
         "l2_bridge_address": "0x060fbf0392c84eae8bf3d5a79e29e6f250933fabeab00cef13c8f1a68c1cca6f",
         "l2_token_address": "0x02c479575aa7399ca4757927c02a71334ff6f1b12693fa9043cf9f49b83d0000",
         "l1_bridge_address": "0xe2969b9d9de178cccc7199234d3e0543da3a7733"
+    },
+    {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "l1_token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "l2_bridge_address": "0x05f1299e76372f9b7f3d6b4be58c67af8eb27af040bf288206f38e6d5afd0abd",
+        "l2_token_address": "0x02a19c5ec71efb0022cae7db810d71280e3fccd2b7b7503c87bcb851089e0f34",
+        "l1_bridge_address": "0xc0c0eB9eeb90243C3FE4e562F12Ff01e8fE8Ff03"
     }
 ]

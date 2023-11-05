@@ -9,7 +9,7 @@
         "l2_bridge_address": "0x72eeb90833bae233a9585f2fa9afc99c187f0a3a82693becd6a4d700b37fc6b"
     },
     {
-        "name": "Goerli USD Coin",
+        "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
         "l1_token_address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
@@ -49,9 +49,27 @@
         "symbol": "DAI",
         "decimals": 18,
         "l1_token_address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
-        "l2_bridge_address": "0x0278f24c3e74cbf7a375ec099df306289beb0605a346277d200b791a7f811a19",
+        "l2_bridge_address": "0x057b7fe4e59d295de5e7955c373023514ede5b972e872e9aa5dcdf563f5cfacb",
         "l2_token_address": "0x03e85bfbb8e2a42b7bead9e88e9a1b19dbccf661471061807292120462396ec9",
-        "l1_bridge_address": "0xd8beAa22894Cd33F24075459cFba287a10a104E4"
+        "l1_bridge_address": "0xaB00D7EE6cFE37cCCAd006cEC4Db6253D7ED3a22"
+    },
+    {
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "l1_token_address": "0x6320cD32aA674d2898A68ec82e869385Fc5f7E2f",
+        "l1_bridge_address": "0x190c98506a5396A30CA759A139F3Fb59EF519A5D",
+        "l2_bridge_address": "0x0399a6011b666888d647665fd65d6dcc7c2690c72d4c4454cae987f19f6ef609",
+        "l2_token_address": "0x0335bc6e1cf6d9527da4f8044c505906ad6728aeeddfba8d7000b01b32ffe66b"
+    },
+    {
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "decimals": 18,
+        "l1_token_address": "0x178E141a0E3b34152f73Ff610437A7bf9B83267A",
+        "l1_bridge_address": "0xD2ef821C56B20a7451dbbEd1ec003De6C44F8dC0",
+        "l2_bridge_address": "0x00214e168720c6eed858066bea070afa828512e83edcfc28846f0e87221f77f6",
+        "l2_token_address":  "0x002133188109385fedaac0b1bf9de1134e271b88efcd21e2ea0dac460639fbe2"
     },
     {
         "name": "LUSD Stablecoin",

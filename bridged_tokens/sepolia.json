@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "l1_token_address": "0x0000000000000000000000000000000000000000",
+        "l2_token_address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
+        "l1_bridge_address": "0x8453FC6Cd1bCfE8D4dFC069C400B433054d47bDc",
+        "l2_bridge_address": "0x04c5772d1914fe6ce891b64eb35bf3522aeae1315647314aac58b01137607f3f"
+    }
+]
+

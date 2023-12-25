@@ -97,5 +97,21 @@
         "l2_bridge_address": "0x05f1299e76372f9b7f3d6b4be58c67af8eb27af040bf288206f38e6d5afd0abd",
         "l2_token_address": "0x02a19c5ec71efb0022cae7db810d71280e3fccd2b7b7503c87bcb851089e0f34",
         "l1_bridge_address": "0xc0c0eB9eeb90243C3FE4e562F12Ff01e8fE8Ff03"
+    },
+    {
+        "name": "StarkNet Token",
+        "symbol": "STRK",
+        "decimals": 18,
+        "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+        "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+        "l1_bridge_address": "0x988bb31B3246004e636bbCA7A40ae723f9511808",
+        "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d"
+    },
+    {
+        "name": "MultiBridge",
+        "StarkgateManager": "0x5C04F89A136749b7e4d0E427B606241a0A41B32f",
+        "StarkgateRegistry": "0xEc05a1EEc2fC769F44A87Be2CD7f0CC2BF3730AB",
+        "StarknetTokenBridge": "0x25E569e0652EB8A6265bAf6D7C146E901f59554C",
+        "l2_token_bridge": "0x0627582c893c1506750d28a40a2e781031554c16544ff7b390c117978bc03de7"
     }
 ]

@@ -9,7 +9,7 @@
         "l2_bridge_address": "0x04c5772d1914fe6ce891b64eb35bf3522aeae1315647314aac58b01137607f3f"
     },
     {
-        "name": "StarkNet Token",
+        "name": "Starknet Token",
         "symbol": "STRK",
         "decimals": 18,
         "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",

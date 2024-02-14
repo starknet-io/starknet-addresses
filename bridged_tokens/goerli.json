@@ -105,7 +105,15 @@
         "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
         "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
         "l1_bridge_address": "0x988bb31B3246004e636bbCA7A40ae723f9511808",
-        "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d"
+        "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d",
+        "l2_locking_contract": "0x01a881a75bb478cedfd4d3ea19d2a4564350d78ea463a5287833526a416d5e31"
+    },
+    {
+        "name": "Starknet Voting Token",
+        "symbol": "vSTRK",
+        "decimals": 18,
+        "l2_token_address": "0x01a881a75bb478cedfd4d3ea19d2a4564350d78ea463a5287833526a416d5e31",
+        "l2_locked_token": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
     },
     {
         "name": "MultiBridge",

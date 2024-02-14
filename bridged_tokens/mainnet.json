@@ -1,5 +1,22 @@
 [
     {
+        "name": "Starknet Token",
+        "symbol": "STRK",
+        "decimals": 18,
+        "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+        "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
+        "l1_bridge_address": "0xcE5485Cfb26914C5dcE00B9BAF0580364daFC7a4",
+        "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d",
+        "l2_locking_contract": "0x0782f0ddca11d9950bc3220e35ac82cf868778edb67a5e58b39838544bc4cd0f"
+    },
+    {
+        "name": "Starknet Voting Token",
+        "symbol": "vSTRK",
+        "decimals": 18,
+        "l2_token_address": "0x0782f0ddca11d9950bc3220e35ac82cf868778edb67a5e58b39838544bc4cd0f",
+        "l2_locked_token": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
+    },
+    {
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,

@@ -14,7 +14,7 @@
         "decimals": 18,
         "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
         "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
-        "l1_bridge_address": "0x988bb31B3246004e636bbCA7A40ae723f9511808",
+        "l1_bridge_address": "0xcE5485Cfb26914C5dcE00B9BAF0580364daFC7a4",
         "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d",
         "l2_locking_contract": "0x035c332b8de00874e702b4831c84b22281fb3246f714475496d74e644f35d492"
     },

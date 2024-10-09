@@ -144,6 +144,15 @@
         "l1_bridge_address": "0xf76e6bF9e2df09D0f854F045A3B724074dA1236B"
     },
     {
+        "name": "tBTC v2",
+        "symbol": "tBTC",
+        "decimals": 18,
+        "l1_bridge_address": "0x9Bb6214895E084Ef66C574C6942f179c975af2Ed",
+        "l2_bridge_address": "0x057cbb32d1ade649f7b1d592d77aa817dc77d42df52000972da75c612c7db45e",
+        "l1_token_address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+        "l2_token_address": "0x04e57a96a44491803e3554dc1799fce9ada25bd2bd2cff4517c118f74ef4fa86"
+    },
+    {
         "name": "MultiBridge",
         "StarkgateManager": "0x0c5aE94f8939182F2D06097025324D1E537d5B60",
         "StarkgateRegistry": "0x1268cc171c54F2000402DfF20E93E60DF4c96812",

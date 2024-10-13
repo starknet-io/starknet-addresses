@@ -153,6 +153,582 @@
         "l2_token_address": "0x04e57a96a44491803e3554dc1799fce9ada25bd2bd2cff4517c118f74ef4fa86"
     },
     {
+        "name": "Wrapped TON Coin",
+        "symbol": "TONCOIN",
+        "decimals": 9,
+        "l1_token_address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x051de263cd428db304bef484c70f4a897725f64b2680bea3832dbbbe3810e503"
+    },
+    {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "l1_token_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0059907104adaad5ab2cee1151028af1311ecd527063da87bdf9089025b7fd4e"
+    },
+    {
+        "name": "Bitfinex LEO Token",
+        "symbol": "LEO",
+        "decimals": 18,
+        "l1_token_address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x010740ef3944861b7333747cf43d6f6363b950796af6ceb9fbdfb52279dfdb3c"
+    },
+    {
+        "name": "Fetch",
+        "symbol": "FET",
+        "decimals": 18,
+        "l1_token_address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07282a58218523eccd963783062a4de4efe69802aad90fe07fef7e1b32ffaaa4"
+    },
+    {
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "l1_token_address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02650ea9af204ba33d4e743ee8ff826b5bec3f5ce497efed832e5c3794483e3c"
+    },
+    {
+        "name": "First Digital USD",
+        "symbol": "FDUSD",
+        "decimals": 18,
+        "l1_token_address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0296e7cb261317b3a42f32225728441b14ec6bfaee68ba3202e7467a5a2268ce"
+    },
+    {
+        "name": "USDe",
+        "symbol": "USDe",
+        "decimals": 18,
+        "l1_token_address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x05e55c3f6d963e85b8bba613ed7a670c4b5bdae5dcb51e9cb7786f81c42a1c01"
+    },
+    {
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "l1_token_address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x057667c81dfb1bf52ed4841d048d60df54a4a2f838af2b6bff3b3f7765c8606a"
+    },
+    {
+        "name": "Immutable X",
+        "symbol": "IMX",
+        "decimals": 18,
+        "l1_token_address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02bae8b6f9e477ef6cea58a436c77346f05172ca7e4c2bc8191615ee7fc8fbdd"
+    },
+    {
+        "name": "Aave Token",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "l1_token_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x027cae52682697d91302dd45b398ff9ac7af058e0cc02bdc9d17edfae19e0c02"
+    },
+    {
+        "name": "CRO",
+        "symbol": "CRO",
+        "decimals": 8,
+        "l1_token_address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x01885bc270971af2e2bd22896762525c464f468d30c5294f45e672cb40bb6fcf"
+    },
+    {
+        "name": "Render Token",
+        "symbol": "RNDR",
+        "decimals": 18,
+        "l1_token_address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04eed8d1e2f2ec96fa4e2e2c06d160507b7cfada44196b674c256b427615da22"
+    },
+    {
+        "name": "Mantle",
+        "symbol": "MNT",
+        "decimals": 18,
+        "l1_token_address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0417e84f8625a4b24f3211ea1827b7d1ee593a87d17032ad3c8eb007e41acdfc"
+    },
+    {
+        "name": "Injective Token",
+        "symbol": "INJ",
+        "decimals": 18,
+        "l1_token_address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07d31cfe2088cd11c14f57964e6e5d02c09df068fd5f512cb6c4189988dc9aae"
+    },
+    {
+        "name": "Fantom Token",
+        "symbol": "FTM",
+        "decimals": 18,
+        "l1_token_address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0161248ade65fa7e3043ce4a1e2fac99b126544c4e5967b2ab4fbde69eae0bc7"
+    },
+    {
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "decimals": 18,
+        "l1_token_address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x06599e91f456e168abb33f382a8010d342b830a1d781bd7cd7a2520806ed4c01"
+    },
+    {
+        "name": "Bonk",
+        "symbol": "Bonk",
+        "decimals": 5,
+        "l1_token_address": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04ce1c6bb3a1ccc62a808ae7ad87695128b55b49d72e4b976b450945e2e9303a"
+    },
+    {
+        "name": "mETH",
+        "symbol": "mETH",
+        "decimals": 18,
+        "l1_token_address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0390928ac5460f166f9bfac445bceb50109a2c5db3b74fc11b6b0e007adca996"
+    },
+    {
+        "name": "MANTRA DAO",
+        "symbol": "OM",
+        "decimals": 18,
+        "l1_token_address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03119f4eeedbc6d0c32b62fb541ba3ce0a67aff0271b7f7fa31f5b0ffd16d30b"
+    },
+    {
+        "name": "Ondo",
+        "symbol": "ONDO",
+        "decimals": 18,
+        "l1_token_address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x029e919269dd93ca38bfac25ba9e38f352b2265cc28350933a09add5ada01434"
+    },
+    {
+        "name": "Quant",
+        "symbol": "QNT",
+        "decimals": 18,
+        "l1_token_address": "0x4a220E6096B25EADb88358cb44068A3248254675",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02822423363090c29e9d9c89a5801e917e4c97475a2c7bfb24fdb56ced792cda"
+    },
+    {
+        "name": "JasmyCoin",
+        "symbol": "JASMY",
+        "decimals": 18,
+        "l1_token_address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04df6f600f713040f32f539edc947973e3166cc345cb1c649a9ae2830dcae6c6"
+    },
+    {
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "decimals": 18,
+        "l1_token_address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x072f1e1ecdb5bd9f7347a12b691b0f44a93c1dfae744eeba5d91b95c682d8e38"
+    },
+    {
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "decimals": 18,
+        "l1_token_address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x053e3ac22b25f0e0bbfde091c856c3bb812a0f02b7999c76a32303e20ee25b3a"
+    },
+    {
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "decimals": 18,
+        "l1_token_address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0254ea24d4df7a42f2fbebc46daca9de04e734899f1872ab84978c8cffa0daa7"
+    },
+    {
+        "name": "Wormhole Token",
+        "symbol": "W",
+        "decimals": 18,
+        "l1_token_address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x040338b20967fe2a3503625faf934434a23cdd04c85bdc99301eb380b5b60c9b"
+    },
+    {
+        "name": "Fasttoken",
+        "symbol": "FTN",
+        "decimals": 18,
+        "l1_token_address": "0xaeDf386B755465871fF874E3E37Af5976E247064",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x064d52552b2170a0d90237ef433245f94dee4f0032fdd04fe0fc67ba2d5ce8af"
+    },
+    {
+        "name": "Beam",
+        "symbol": "BEAM",
+        "decimals": 18,
+        "l1_token_address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x035f3dbe98217ba826ead699236a41f308686debfdff1888040266f3d5ee6f83"
+    },
+    {
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezETH",
+        "decimals": 18,
+        "l1_token_address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x049ccfa008974dfdc74b9a5015cfeea880b6096a517ac56b2ea81e2e06f19331"
+    },
+    {
+        "name": "ENA",
+        "symbol": "ENA",
+        "decimals": 18,
+        "l1_token_address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x034622a9e75600824d9d068c00398125c60b3edba465328ea024e7c7a1f80beb"
+    },
+    {
+        "name": "Gala",
+        "symbol": "GALA",
+        "decimals": 8,
+        "l1_token_address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00bdd35954d04d51ec911945db4f8d971954acee01ef8fad2b9b8d4c5459980b"
+    },
+    {
+        "name": "Decentralized USD",
+        "symbol": "USDD",
+        "decimals": 18,
+        "l1_token_address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x05d3ca7c56033f59f072026206cd52f1b7caf139d385caded65b763574cf8070"
+    },
+    {
+        "name": "PayPal USD",
+        "symbol": "PYUSD",
+        "decimals": 6,
+        "l1_token_address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03487c74ff7ffd5dc3c1c608e209971af9b25983af29f59f75b7f1c3ebfbc0de"
+    },
+    {
+        "name": "Axie Infinity Shard",
+        "symbol": "AXS",
+        "decimals": 18,
+        "l1_token_address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x064ddae098ef41b0cc4c1f62061604df39abbe2d8aabc32c65edbc515326448b"
+    },
+    {
+        "name": "Tokenize Emblem",
+        "symbol": "TKX",
+        "decimals": 8,
+        "l1_token_address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x027053736000d58e1a26c80e71fd9e11e217982b07e595bc38b936596560ca4f"
+    },
+    {
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "decimals": 6,
+        "l1_token_address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x012cda0aef674264fc5414b41e4356f44a887cef99c102c89da100abc44465f8"
+    },
+    {
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "decimals": 18,
+        "l1_token_address": "0x808507121B80c02388fAd14726482e061B8da827",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0224426a2edf5742ba932bd10d1649b907daee08c7c751aa7041d1df2149e0a8"
+    },
+    {
+        "name": "SAND",
+        "symbol": "SAND",
+        "decimals": 18,
+        "l1_token_address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04155c338159d0073ccf598f597e961584c3c39d71979d650d27592501386766"
+    },
+    {
+        "name": "rsETH",
+        "symbol": "rsETH",
+        "decimals": 18,
+        "l1_token_address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x05b3fcb709ee60f84a491e13948299255886b62ac8440ddf49df72c4de704f19"
+    },
+    {
+        "name": "Eigen",
+        "symbol": "EIGEN",
+        "decimals": 18,
+        "l1_token_address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0178b3fe63dd841fe16eaf8db9679fa7de4ab4fc1508da0e3f995e11c97abc0d"
+    },
+    {
+        "name": "chiliZ",
+        "symbol": "CHZ",
+        "decimals": 18,
+        "l1_token_address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x020a006e7ffb7173f3222b179b7fb16b15116edd15d46ebe21895ab1a7214681"
+    },
+    {
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "decimals": 18,
+        "l1_token_address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x01e3a749eb19331cd8ac1df92606075ef387c1d137f4caae5a9d73665badb8f4"
+    },
+    {
+        "name": "Decentraland MANA",
+        "symbol": "MANA",
+        "decimals": 18,
+        "l1_token_address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x003f6db7a0d914fccc8c413ed3c050820a8402f938beed26c72684d770a47c1a"
+    },
+    {
+        "name": "Axelar",
+        "symbol": "AXL",
+        "decimals": 6,
+        "l1_token_address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0048a29fe86c4a1f6e34980818e1c98cc262a6480cbfb6ba792bd9f15a0c0147"
+    },
+    {
+        "name": "AIOZ Network",
+        "symbol": "AIOZ",
+        "decimals": 18,
+        "l1_token_address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x003e6043b2422fc54163fd7e673454b208e838ce4a5b3efbaa2333671985377c"
+    },
+    {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "decimals": 18,
+        "l1_token_address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x079cb2d53e1e0394a2ecf2ee6e8cf1823e5f7120d638a5ecd4980ee51b150e5a"
+    },
+    {
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "decimals": 18,
+        "l1_token_address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04eabc1ff68bd799226d3461ab10f5c15e87d8c06116c392cdf84a066de82776"
+    },
+    {
+        "name": "Synthetix Network Token",
+        "symbol": "SNX",
+        "decimals": 18,
+        "l1_token_address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07b82ce41c3511f2663ba8858038b7bf8c3d4b19951c35131e2553a4402305e1"
+    },
+    {
+        "name": "Prime",
+        "symbol": "PRIME",
+        "decimals": 18,
+        "l1_token_address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04efdd3ba41c456906043d29be389ff792277a09b7eb75f03a5a485884b6b235"
+    },
+    {
+        "name": "SuperFarm",
+        "symbol": "SUPER",
+        "decimals": 18,
+        "l1_token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07417285d944ef77247be33b87769929e0d413e24000258a5fc61ae7d12b209d"
+    },
+    {
+        "name": "Dexe",
+        "symbol": "DEXE",
+        "decimals": 18,
+        "l1_token_address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07dd28d98a01efc126efba779144b0bace4bbf406760c831c9113b7d576e2b9c"
+    },
+    {
+        "name": "Safe Token",
+        "symbol": "SAFE",
+        "decimals": 18,
+        "l1_token_address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04a909347487d909a6629b56880e6e03ad3859e772048c4481f3fba88ea02c21"
+    },
+    {
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "l1_token_address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x012fa11d6667ef36546bd8412e20527dd0c65c9163920cc69313cf72029df358"
+    },
+    {
+        "name": "Blur",
+        "symbol": "BLUR",
+        "decimals": 18,
+        "l1_token_address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02e1b2ca66f4e705af87955dbfbae14bdc3061aa9cf1aa188369d011fc3a725f"
+    },
+    {
+        "name": "Livepeer Token",
+        "symbol": "LPT",
+        "decimals": 18,
+        "l1_token_address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07114515d26ec556aaf75fad16b0c7e071f8934c1b0dcf9b39e3b38198b51678"
+    },
+    {
+        "name": "Gnosis Token",
+        "symbol": "GNO",
+        "decimals": 18,
+        "l1_token_address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04c7804c92a5c18b0f209b7d820992ff1595ee0964fc7c0791b8ec4a1b33294d"
+    },
+    {
+        "name": "Neiro",
+        "symbol": "Neiro",
+        "decimals": 9,
+        "l1_token_address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x004e4299b537ec14235f58371bc23c636a8f7a2ad58b3a3e76abe25b0fb0706e"
+    },
+    {
+        "name": "APENFT",
+        "symbol": "NFT",
+        "decimals": 6,
+        "l1_token_address": "0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x078f85bf48946640d0f8cc441b7cac78cedf30c29015b5ceac5350b259cc4137"
+    },
+    {
+        "name": "dYdX",
+        "symbol": "DYDX",
+        "decimals": 18,
+        "l1_token_address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x01e31ca31b1de4e844565be0bb22bfbdf657b020b61d948333ab86b2798f3137"
+    },
+    {
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "l1_token_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0354ffe57832ca72f2edf88a7ecec3479422d8321d9dc680e1f9e7fc5aa7a84d"
+    },
+    {
+        "name": "Arkham",
+        "symbol": "ARKM",
+        "decimals": 18,
+        "l1_token_address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0029bb23d646272a4455028f7415e5ccd6c5b5f67432b03dde59a8abacf3df74"
+    },
+    {
+        "name": "pepeCoin",
+        "symbol": "pepecoin",
+        "decimals": 18,
+        "l1_token_address": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x006b8e6b6ecc696375ffc1b7dad379acc0132adde24c1e057de3f79a84703b84"
+    },
+    {
+        "name": "Turbo",
+        "symbol": "TURBO",
+        "decimals": 18,
+        "l1_token_address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x06f1497a5c7638720255dad058fba4f886b337b523b113ff6880f3b9fa81dc4b"
+    },
+    {
+        "name": "ConstitutionDAO",
+        "symbol": "PEOPLE",
+        "decimals": 18,
+        "l1_token_address": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04bd992b5c9fcbe240aa49d2f03391854d6d3792b2eb187b36a9b57e0e4576c5"
+    },
+    {
         "name": "MultiBridge",
         "StarkgateManager": "0x0c5aE94f8939182F2D06097025324D1E537d5B60",
         "StarkgateRegistry": "0x1268cc171c54F2000402DfF20E93E60DF4c96812",

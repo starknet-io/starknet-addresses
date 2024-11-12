@@ -1,13 +1,13 @@
 [
     {
+        "id": "strk",
         "name": "Starknet Token",
         "symbol": "STRK",
         "decimals": 18,
         "l1_token_address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
-        "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d",
         "l1_bridge_address": "0xcE5485Cfb26914C5dcE00B9BAF0580364daFC7a4",
         "l2_bridge_address": "0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d",
-        "l2_locking_contract": "0x0782f0ddca11d9950bc3220e35ac82cf868778edb67a5e58b39838544bc4cd0f"
+        "l2_token_address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
     },
     {
         "name": "Starknet Voting Token",
@@ -17,42 +17,47 @@
         "l2_locked_token": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
     },
     {
+        "id": "wbtc",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
         "decimals": 8,
         "l1_token_address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "l2_token_address": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac",
         "l1_bridge_address": "0x283751A21eafBFcD52297820D27C1f1963D9b5b4",
-        "l2_bridge_address": "0x07aeec4870975311a7396069033796b61cd66ed49d22a786cba12a8d76717302"
+        "l2_bridge_address": "0x07aeec4870975311a7396069033796b61cd66ed49d22a786cba12a8d76717302",
+        "l2_token_address": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2661ff3ca5a7c771641e8e7ac"
     },
     {
+        "id": "usdc",
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
         "l1_token_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "l2_token_address": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8",
         "l1_bridge_address": "0xF6080D9fbEEbcd44D89aFfBFd42F098cbFf92816",
-        "l2_bridge_address": "0x05cd48fccbfd8aa2773fe22c217e808319ffcc1c5a6a463f7d8fa2da48218196"
+        "l2_bridge_address": "0x05cd48fccbfd8aa2773fe22c217e808319ffcc1c5a6a463f7d8fa2da48218196",
+        "l2_token_address": "0x053c91253bc9682c04929ca02ed00b3e423f6710d2ee7e0d5ebb06f3ecf368a8"
     },
     {
+        "id": "usdt",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
         "l1_token_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "l2_token_address": "0x068f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8",
         "l1_bridge_address": "0xbb3400F107804DFB482565FF1Ec8D8aE66747605",
-        "l2_bridge_address": "0x074761a8d48ce002963002becc6d9c3dd8a2a05b1075d55e5967f42296f16bd0"
+        "l2_bridge_address": "0x074761a8d48ce002963002becc6d9c3dd8a2a05b1075d55e5967f42296f16bd0",
+        "l2_token_address": "0x068f5c6a61780768455de69077e07e89787839bf8166decfbf92b645209c0fb8"
     },
     {
+        "id": "eth",
         "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,
         "l1_token_address": "0x0000000000000000000000000000000000455448",
-        "l2_token_address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7",
         "l1_bridge_address": "0xae0Ee0A63A2cE6BaeEFFE56e7714FB4EFE48D419",
-        "l2_bridge_address": "0x073314940630fd6dcda0d772d4c972c4e0a9946bef9dabf4ef84eda8ef542b82"
+        "l2_bridge_address": "0x073314940630fd6dcda0d772d4c972c4e0a9946bef9dabf4ef84eda8ef542b82",
+        "l2_token_address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7"
     },
     {
+        "id": "dai",
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
@@ -62,25 +67,27 @@
         "l2_token_address": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad"
     },
     {
+        "id": "dai",
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
         "l1_token_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "l2_bridge_address": "0x075ac198e734e289a6892baa8dd14b21095f13bf8401900f5349d5569c3f6e60",
-        "l2_token_address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
-        "l1_bridge_address": "0x9F96fE0633eE838D0298E8b8980E6716bE81388d",
-        "comment": "Dai v0"
+        "l1_bridge_address": "0xCA14057f85F2662257fd2637FdEc558626bCe554",
+        "l2_bridge_address": "0x07754236934aeaf4c29d287b94b5fde8687ba7d59466ea6b80f3f57d6467b7d6",
+        "l2_token_address": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad"
     },
     {
+        "id": "wsteth",
         "name": "Wrapped liquid staked Ether 2.0",
         "symbol": "wstETH",
         "decimals": 18,
         "l1_token_address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
         "l1_bridge_address": "0xBf67F59D2988A46FBFF7ed79A621778a3Cd3985B",
         "l2_bridge_address": "0x0088eedbe2fe3918b69ccb411713b7fa72079d4eddf291103ccbe41e78a9615c",
-        "l2_token_address": "0x42b8f0484674ca266ac5d08e4ac6a3fe65bd3129795def2dca5c34ecc5f96d2"
+        "l2_token_address": "0x042b8f0484674ca266ac5d08e4ac6a3fe65bd3129795def2dca5c34ecc5f96d2"
     },
     {
+        "id": "reth",
         "name": "Rocket Pool ETH",
         "symbol": "rETH",
         "decimals": 18,
@@ -90,69 +97,77 @@
         "l2_token_address": "0x0319111a5037cbec2b3e638cc34a3474e2d2608299f3e62866e9cc683208c610"
     },
     {
+        "id": "r",
         "name": "R Stablecoin",
         "symbol": "R",
         "decimals": 18,
         "l1_token_address": "0x183015a9bA6fF60230fdEaDc3F43b3D788b13e21",
-        "l2_token_address": "0x01fa2fb85f624600112040e1f3a848f53a37ed5a7385810063d5fe6887280333",
         "l1_bridge_address": "0xb27d0dCAFd63db302C155c8864886f33BD2a41E5",
-        "l2_bridge_address": "0x00b0cefce685e321eba324fac1c8e2db768892bc1ddb8375fe40fd269fa69fb2"
+        "l2_bridge_address": "0x00b0cefce685e321eba324fac1c8e2db768892bc1ddb8375fe40fd269fa69fb2",
+        "l2_token_address": "0x01fa2fb85f624600112040e1f3a848f53a37ed5a7385810063d5fe6887280333"
     },
     {
+        "id": "frax",
         "name": "Frax",
         "symbol": "FRAX",
         "decimals": 18,
         "l1_token_address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
-        "l2_token_address": "0x009c6b4fb13dfaa025c1383ed6190af8ed8cbb09d9588a3bb020feb152442406",
         "l1_bridge_address": "0xDc687e1E0B85CB589b2da3C47c933De9Db3d1ebb",
-        "l2_bridge_address": "0x006646a87b8e9e51a893c52facd89f99539a152b96e72daee6a7a3734aa5299a"
+        "l2_bridge_address": "0x006646a87b8e9e51a893c52facd89f99539a152b96e72daee6a7a3734aa5299a",
+        "l2_token_address": "0x009c6b4fb13dfaa025c1383ed6190af8ed8cbb09d9588a3bb020feb152442406"
     },
     {
+        "id": "fxs",
         "name": "Frax Share",
         "symbol": "FXS",
         "decimals": 18,
         "l1_token_address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
-        "l2_token_address": "0x0058efd0e73c33a848ffaa88738d128ebf0af98ea78cf3c14dc757bb02d39ffb",
         "l1_bridge_address": "0x66ba83ba3D3AD296424a2258145d9910E9E40B7C",
-        "l2_bridge_address": "0x06bf25c0911c6c63abfe3600428144d0d0dbf8b7bfbc44306a3386aa95a24296"
+        "l2_bridge_address": "0x06bf25c0911c6c63abfe3600428144d0d0dbf8b7bfbc44306a3386aa95a24296",
+        "l2_token_address": "0x0058efd0e73c33a848ffaa88738d128ebf0af98ea78cf3c14dc757bb02d39ffb"
     },
     {
+        "id": "sfrxeth",
         "name": "Staked Frax Ether",
         "symbol": "sfrxETH",
         "decimals": 18,
         "l1_token_address": "0xac3E018457B222d93114458476f3E3416Abbe38F",
-        "l2_token_address": "0x04578fffc279e61b5cb0267a5f8e24b6089d40f93158fbbad2cb23b8622c9233",
         "l1_bridge_address": "0xd8E8531fdD446DF5298819d3Bc9189a5D8948Ee8",
-        "l2_bridge_address": "0x06dcc61c4cf056ff42a8f4b8635c207e3da73332282aa2132058022520fa0179"
+        "l2_bridge_address": "0x06dcc61c4cf056ff42a8f4b8635c207e3da73332282aa2132058022520fa0179",
+        "l2_token_address": "0x04578fffc279e61b5cb0267a5f8e24b6089d40f93158fbbad2cb23b8622c9233"
     },
     {
+        "id": "lusd",
         "name": "LUSD Stablecoin",
         "symbol": "LUSD",
         "decimals": 18,
-        "l1_token_address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+        "l1_token_address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "l1_bridge_address": "0xF3F62F23dF9C1D2C7C63D9ea6B90E8d24c7E3DF5",
         "l2_bridge_address": "0x05841ed9b790719b61dc98826246a7a3012dd35b0ed728e3c455af2647385c80",
-        "l2_token_address": "0x070a76fd48ca0ef910631754d77dd822147fe98a569b826ec85e3c33fde586ac",
-        "l1_bridge_address": "0xF3F62F23dF9C1D2C7C63D9ea6B90E8d24c7E3DF5"
+        "l2_token_address": "0x070a76fd48ca0ef910631754d77dd822147fe98a569b826ec85e3c33fde586ac"
     },
     {
+        "id": "uni",
         "name": "Uniswap",
         "symbol": "UNI",
         "decimals": 18,
-        "l1_token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "l1_token_address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "l1_bridge_address": "0xf76e6bF9e2df09D0f854F045A3B724074dA1236B",
         "l2_bridge_address": "0x04fe90c0c4594b4a5ce3031a4bbdfbc7c046b4b9d7cf31b79647540c85b8ec79",
-        "l2_token_address": "0x049210ffc442172463f3177147c1aeaa36c51d152c1b0630f2364c300d4f48ee",
-        "l1_bridge_address": "0xf76e6bF9e2df09D0f854F045A3B724074dA1236B"
+        "l2_token_address": "0x049210ffc442172463f3177147c1aeaa36c51d152c1b0630f2364c300d4f48ee"
     },
     {
+        "id": "tbtc",
         "name": "tBTC v2",
         "symbol": "tBTC",
         "decimals": 18,
+        "l1_token_address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
         "l1_bridge_address": "0x9Bb6214895E084Ef66C574C6942f179c975af2Ed",
         "l2_bridge_address": "0x057cbb32d1ade649f7b1d592d77aa817dc77d42df52000972da75c612c7db45e",
-        "l1_token_address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
         "l2_token_address": "0x04e57a96a44491803e3554dc1799fce9ada25bd2bd2cff4517c118f74ef4fa86"
     },
     {
+        "id": "toncoin",
         "name": "Wrapped TON Coin",
         "symbol": "TONCOIN",
         "decimals": 9,
@@ -162,6 +177,7 @@
         "l2_token_address": "0x051de263cd428db304bef484c70f4a897725f64b2680bea3832dbbbe3810e503"
     },
     {
+        "id": "weth",
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
@@ -171,6 +187,7 @@
         "l2_token_address": "0x0059907104adaad5ab2cee1151028af1311ecd527063da87bdf9089025b7fd4e"
     },
     {
+        "id": "leo",
         "name": "Bitfinex LEO Token",
         "symbol": "LEO",
         "decimals": 18,
@@ -180,6 +197,7 @@
         "l2_token_address": "0x010740ef3944861b7333747cf43d6f6363b950796af6ceb9fbdfb52279dfdb3c"
     },
     {
+        "id": "fet",
         "name": "Fetch",
         "symbol": "FET",
         "decimals": 18,
@@ -189,6 +207,7 @@
         "l2_token_address": "0x07282a58218523eccd963783062a4de4efe69802aad90fe07fef7e1b32ffaaa4"
     },
     {
+        "id": "pol",
         "name": "Polygon Ecosystem Token",
         "symbol": "POL",
         "decimals": 18,
@@ -198,6 +217,7 @@
         "l2_token_address": "0x02650ea9af204ba33d4e743ee8ff826b5bec3f5ce497efed832e5c3794483e3c"
     },
     {
+        "id": "fdusd",
         "name": "First Digital USD",
         "symbol": "FDUSD",
         "decimals": 18,
@@ -207,6 +227,7 @@
         "l2_token_address": "0x0296e7cb261317b3a42f32225728441b14ec6bfaee68ba3202e7467a5a2268ce"
     },
     {
+        "id": "usde",
         "name": "USDe",
         "symbol": "USDe",
         "decimals": 18,
@@ -216,6 +237,7 @@
         "l2_token_address": "0x05e55c3f6d963e85b8bba613ed7a670c4b5bdae5dcb51e9cb7786f81c42a1c01"
     },
     {
+        "id": "okb",
         "name": "OKB",
         "symbol": "OKB",
         "decimals": 18,
@@ -225,6 +247,7 @@
         "l2_token_address": "0x057667c81dfb1bf52ed4841d048d60df54a4a2f838af2b6bff3b3f7765c8606a"
     },
     {
+        "id": "imx",
         "name": "Immutable X",
         "symbol": "IMX",
         "decimals": 18,
@@ -234,6 +257,7 @@
         "l2_token_address": "0x02bae8b6f9e477ef6cea58a436c77346f05172ca7e4c2bc8191615ee7fc8fbdd"
     },
     {
+        "id": "aave",
         "name": "Aave Token",
         "symbol": "AAVE",
         "decimals": 18,
@@ -243,6 +267,7 @@
         "l2_token_address": "0x027cae52682697d91302dd45b398ff9ac7af058e0cc02bdc9d17edfae19e0c02"
     },
     {
+        "id": "cro",
         "name": "CRO",
         "symbol": "CRO",
         "decimals": 8,
@@ -252,6 +277,7 @@
         "l2_token_address": "0x01885bc270971af2e2bd22896762525c464f468d30c5294f45e672cb40bb6fcf"
     },
     {
+        "id": "rndr",
         "name": "Render Token",
         "symbol": "RNDR",
         "decimals": 18,
@@ -261,6 +287,7 @@
         "l2_token_address": "0x04eed8d1e2f2ec96fa4e2e2c06d160507b7cfada44196b674c256b427615da22"
     },
     {
+        "id": "mnt",
         "name": "Mantle",
         "symbol": "MNT",
         "decimals": 18,
@@ -270,6 +297,7 @@
         "l2_token_address": "0x0417e84f8625a4b24f3211ea1827b7d1ee593a87d17032ad3c8eb007e41acdfc"
     },
     {
+        "id": "inj",
         "name": "Injective Token",
         "symbol": "INJ",
         "decimals": 18,
@@ -279,6 +307,7 @@
         "l2_token_address": "0x07d31cfe2088cd11c14f57964e6e5d02c09df068fd5f512cb6c4189988dc9aae"
     },
     {
+        "id": "ftm",
         "name": "Fantom Token",
         "symbol": "FTM",
         "decimals": 18,
@@ -288,6 +317,7 @@
         "l2_token_address": "0x0161248ade65fa7e3043ce4a1e2fac99b126544c4e5967b2ab4fbde69eae0bc7"
     },
     {
+        "id": "grt",
         "name": "Graph Token",
         "symbol": "GRT",
         "decimals": 18,
@@ -297,6 +327,7 @@
         "l2_token_address": "0x06599e91f456e168abb33f382a8010d342b830a1d781bd7cd7a2520806ed4c01"
     },
     {
+        "id": "bonk",
         "name": "Bonk",
         "symbol": "Bonk",
         "decimals": 5,
@@ -306,6 +337,7 @@
         "l2_token_address": "0x04ce1c6bb3a1ccc62a808ae7ad87695128b55b49d72e4b976b450945e2e9303a"
     },
     {
+        "id": "meth",
         "name": "mETH",
         "symbol": "mETH",
         "decimals": 18,
@@ -315,6 +347,7 @@
         "l2_token_address": "0x0390928ac5460f166f9bfac445bceb50109a2c5db3b74fc11b6b0e007adca996"
     },
     {
+        "id": "om",
         "name": "MANTRA DAO",
         "symbol": "OM",
         "decimals": 18,
@@ -324,6 +357,7 @@
         "l2_token_address": "0x03119f4eeedbc6d0c32b62fb541ba3ce0a67aff0271b7f7fa31f5b0ffd16d30b"
     },
     {
+        "id": "ondo",
         "name": "Ondo",
         "symbol": "ONDO",
         "decimals": 18,
@@ -333,6 +367,7 @@
         "l2_token_address": "0x029e919269dd93ca38bfac25ba9e38f352b2265cc28350933a09add5ada01434"
     },
     {
+        "id": "qnt",
         "name": "Quant",
         "symbol": "QNT",
         "decimals": 18,
@@ -342,6 +377,7 @@
         "l2_token_address": "0x02822423363090c29e9d9c89a5801e917e4c97475a2c7bfb24fdb56ced792cda"
     },
     {
+        "id": "jasmy",
         "name": "JasmyCoin",
         "symbol": "JASMY",
         "decimals": 18,
@@ -351,6 +387,7 @@
         "l2_token_address": "0x04df6f600f713040f32f539edc947973e3166cc345cb1c649a9ae2830dcae6c6"
     },
     {
+        "id": "ldo",
         "name": "Lido DAO Token",
         "symbol": "LDO",
         "decimals": 18,
@@ -360,6 +397,7 @@
         "l2_token_address": "0x072f1e1ecdb5bd9f7347a12b691b0f44a93c1dfae744eeba5d91b95c682d8e38"
     },
     {
+        "id": "wld",
         "name": "Worldcoin",
         "symbol": "WLD",
         "decimals": 18,
@@ -369,6 +407,7 @@
         "l2_token_address": "0x053e3ac22b25f0e0bbfde091c856c3bb812a0f02b7999c76a32303e20ee25b3a"
     },
     {
+        "id": "btt",
         "name": "BitTorrent",
         "symbol": "BTT",
         "decimals": 18,
@@ -378,6 +417,7 @@
         "l2_token_address": "0x0254ea24d4df7a42f2fbebc46daca9de04e734899f1872ab84978c8cffa0daa7"
     },
     {
+        "id": "w",
         "name": "Wormhole Token",
         "symbol": "W",
         "decimals": 18,
@@ -387,6 +427,7 @@
         "l2_token_address": "0x040338b20967fe2a3503625faf934434a23cdd04c85bdc99301eb380b5b60c9b"
     },
     {
+        "id": "ftn",
         "name": "Fasttoken",
         "symbol": "FTN",
         "decimals": 18,
@@ -396,6 +437,7 @@
         "l2_token_address": "0x064d52552b2170a0d90237ef433245f94dee4f0032fdd04fe0fc67ba2d5ce8af"
     },
     {
+        "id": "beam",
         "name": "Beam",
         "symbol": "BEAM",
         "decimals": 18,
@@ -405,6 +447,7 @@
         "l2_token_address": "0x035f3dbe98217ba826ead699236a41f308686debfdff1888040266f3d5ee6f83"
     },
     {
+        "id": "ezeth",
         "name": "Renzo Restaked ETH",
         "symbol": "ezETH",
         "decimals": 18,
@@ -414,6 +457,7 @@
         "l2_token_address": "0x049ccfa008974dfdc74b9a5015cfeea880b6096a517ac56b2ea81e2e06f19331"
     },
     {
+        "id": "ena",
         "name": "ENA",
         "symbol": "ENA",
         "decimals": 18,
@@ -423,6 +467,7 @@
         "l2_token_address": "0x034622a9e75600824d9d068c00398125c60b3edba465328ea024e7c7a1f80beb"
     },
     {
+        "id": "gala",
         "name": "Gala",
         "symbol": "GALA",
         "decimals": 8,
@@ -432,6 +477,7 @@
         "l2_token_address": "0x00bdd35954d04d51ec911945db4f8d971954acee01ef8fad2b9b8d4c5459980b"
     },
     {
+        "id": "usdd",
         "name": "Decentralized USD",
         "symbol": "USDD",
         "decimals": 18,
@@ -441,6 +487,7 @@
         "l2_token_address": "0x05d3ca7c56033f59f072026206cd52f1b7caf139d385caded65b763574cf8070"
     },
     {
+        "id": "pyusd",
         "name": "PayPal USD",
         "symbol": "PYUSD",
         "decimals": 6,
@@ -450,6 +497,7 @@
         "l2_token_address": "0x03487c74ff7ffd5dc3c1c608e209971af9b25983af29f59f75b7f1c3ebfbc0de"
     },
     {
+        "id": "axs",
         "name": "Axie Infinity Shard",
         "symbol": "AXS",
         "decimals": 18,
@@ -459,6 +507,7 @@
         "l2_token_address": "0x064ddae098ef41b0cc4c1f62061604df39abbe2d8aabc32c65edbc515326448b"
     },
     {
+        "id": "tkx",
         "name": "Tokenize Emblem",
         "symbol": "TKX",
         "decimals": 8,
@@ -468,6 +517,7 @@
         "l2_token_address": "0x027053736000d58e1a26c80e71fd9e11e217982b07e595bc38b936596560ca4f"
     },
     {
+        "id": "xaut",
         "name": "Tether Gold",
         "symbol": "XAUt",
         "decimals": 6,
@@ -477,6 +527,7 @@
         "l2_token_address": "0x012cda0aef674264fc5414b41e4356f44a887cef99c102c89da100abc44465f8"
     },
     {
+        "id": "pendle",
         "name": "Pendle",
         "symbol": "PENDLE",
         "decimals": 18,
@@ -486,6 +537,7 @@
         "l2_token_address": "0x0224426a2edf5742ba932bd10d1649b907daee08c7c751aa7041d1df2149e0a8"
     },
     {
+        "id": "sand",
         "name": "SAND",
         "symbol": "SAND",
         "decimals": 18,
@@ -495,6 +547,7 @@
         "l2_token_address": "0x04155c338159d0073ccf598f597e961584c3c39d71979d650d27592501386766"
     },
     {
+        "id": "rseth",
         "name": "rsETH",
         "symbol": "rsETH",
         "decimals": 18,
@@ -504,6 +557,7 @@
         "l2_token_address": "0x05b3fcb709ee60f84a491e13948299255886b62ac8440ddf49df72c4de704f19"
     },
     {
+        "id": "eigen",
         "name": "Eigen",
         "symbol": "EIGEN",
         "decimals": 18,
@@ -513,6 +567,7 @@
         "l2_token_address": "0x0178b3fe63dd841fe16eaf8db9679fa7de4ab4fc1508da0e3f995e11c97abc0d"
     },
     {
+        "id": "chz",
         "name": "chiliZ",
         "symbol": "CHZ",
         "decimals": 18,
@@ -522,6 +577,7 @@
         "l2_token_address": "0x020a006e7ffb7173f3222b179b7fb16b15116edd15d46ebe21895ab1a7214681"
     },
     {
+        "id": "ens",
         "name": "Ethereum Name Service",
         "symbol": "ENS",
         "decimals": 18,
@@ -531,6 +587,7 @@
         "l2_token_address": "0x01e3a749eb19331cd8ac1df92606075ef387c1d137f4caae5a9d73665badb8f4"
     },
     {
+        "id": "mana",
         "name": "Decentraland MANA",
         "symbol": "MANA",
         "decimals": 18,
@@ -540,6 +597,7 @@
         "l2_token_address": "0x003f6db7a0d914fccc8c413ed3c050820a8402f938beed26c72684d770a47c1a"
     },
     {
+        "id": "axl",
         "name": "Axelar",
         "symbol": "AXL",
         "decimals": 6,
@@ -549,6 +607,7 @@
         "l2_token_address": "0x0048a29fe86c4a1f6e34980818e1c98cc262a6480cbfb6ba792bd9f15a0c0147"
     },
     {
+        "id": "aioz",
         "name": "AIOZ Network",
         "symbol": "AIOZ",
         "decimals": 18,
@@ -558,6 +617,7 @@
         "l2_token_address": "0x003e6043b2422fc54163fd7e673454b208e838ce4a5b3efbaa2333671985377c"
     },
     {
+        "id": "ape",
         "name": "ApeCoin",
         "symbol": "APE",
         "decimals": 18,
@@ -567,6 +627,7 @@
         "l2_token_address": "0x079cb2d53e1e0394a2ecf2ee6e8cf1823e5f7120d638a5ecd4980ee51b150e5a"
     },
     {
+        "id": "zro",
         "name": "LayerZero",
         "symbol": "ZRO",
         "decimals": 18,
@@ -576,6 +637,7 @@
         "l2_token_address": "0x04eabc1ff68bd799226d3461ab10f5c15e87d8c06116c392cdf84a066de82776"
     },
     {
+        "id": "snx",
         "name": "Synthetix Network Token",
         "symbol": "SNX",
         "decimals": 18,
@@ -585,6 +647,7 @@
         "l2_token_address": "0x07b82ce41c3511f2663ba8858038b7bf8c3d4b19951c35131e2553a4402305e1"
     },
     {
+        "id": "prime",
         "name": "Prime",
         "symbol": "PRIME",
         "decimals": 18,
@@ -594,6 +657,7 @@
         "l2_token_address": "0x04efdd3ba41c456906043d29be389ff792277a09b7eb75f03a5a485884b6b235"
     },
     {
+        "id": "super",
         "name": "SuperFarm",
         "symbol": "SUPER",
         "decimals": 18,
@@ -603,6 +667,7 @@
         "l2_token_address": "0x07417285d944ef77247be33b87769929e0d413e24000258a5fc61ae7d12b209d"
     },
     {
+        "id": "dexe",
         "name": "Dexe",
         "symbol": "DEXE",
         "decimals": 18,
@@ -612,6 +677,7 @@
         "l2_token_address": "0x07dd28d98a01efc126efba779144b0bace4bbf406760c831c9113b7d576e2b9c"
     },
     {
+        "id": "safe",
         "name": "Safe Token",
         "symbol": "SAFE",
         "decimals": 18,
@@ -621,6 +687,7 @@
         "l2_token_address": "0x04a909347487d909a6629b56880e6e03ad3859e772048c4481f3fba88ea02c21"
     },
     {
+        "id": "frxeth",
         "name": "Frax Ether",
         "symbol": "frxETH",
         "decimals": 18,
@@ -630,6 +697,7 @@
         "l2_token_address": "0x012fa11d6667ef36546bd8412e20527dd0c65c9163920cc69313cf72029df358"
     },
     {
+        "id": "blur",
         "name": "Blur",
         "symbol": "BLUR",
         "decimals": 18,
@@ -639,6 +707,7 @@
         "l2_token_address": "0x02e1b2ca66f4e705af87955dbfbae14bdc3061aa9cf1aa188369d011fc3a725f"
     },
     {
+        "id": "lpt",
         "name": "Livepeer Token",
         "symbol": "LPT",
         "decimals": 18,
@@ -648,6 +717,7 @@
         "l2_token_address": "0x07114515d26ec556aaf75fad16b0c7e071f8934c1b0dcf9b39e3b38198b51678"
     },
     {
+        "id": "gno",
         "name": "Gnosis Token",
         "symbol": "GNO",
         "decimals": 18,
@@ -657,6 +727,7 @@
         "l2_token_address": "0x04c7804c92a5c18b0f209b7d820992ff1595ee0964fc7c0791b8ec4a1b33294d"
     },
     {
+        "id": "neiro",
         "name": "Neiro",
         "symbol": "Neiro",
         "decimals": 9,
@@ -666,6 +737,7 @@
         "l2_token_address": "0x004e4299b537ec14235f58371bc23c636a8f7a2ad58b3a3e76abe25b0fb0706e"
     },
     {
+        "id": "nft",
         "name": "APENFT",
         "symbol": "NFT",
         "decimals": 6,
@@ -675,6 +747,7 @@
         "l2_token_address": "0x078f85bf48946640d0f8cc441b7cac78cedf30c29015b5ceac5350b259cc4137"
     },
     {
+        "id": "dydx",
         "name": "dYdX",
         "symbol": "DYDX",
         "decimals": 18,
@@ -684,6 +757,7 @@
         "l2_token_address": "0x01e31ca31b1de4e844565be0bb22bfbdf657b020b61d948333ab86b2798f3137"
     },
     {
+        "id": "comp",
         "name": "Compound",
         "symbol": "COMP",
         "decimals": 18,
@@ -693,6 +767,7 @@
         "l2_token_address": "0x0354ffe57832ca72f2edf88a7ecec3479422d8321d9dc680e1f9e7fc5aa7a84d"
     },
     {
+        "id": "arkm",
         "name": "Arkham",
         "symbol": "ARKM",
         "decimals": 18,
@@ -702,6 +777,7 @@
         "l2_token_address": "0x0029bb23d646272a4455028f7415e5ccd6c5b5f67432b03dde59a8abacf3df74"
     },
     {
+        "id": "pepecoin",
         "name": "pepeCoin",
         "symbol": "pepecoin",
         "decimals": 18,
@@ -711,6 +787,7 @@
         "l2_token_address": "0x006b8e6b6ecc696375ffc1b7dad379acc0132adde24c1e057de3f79a84703b84"
     },
     {
+        "id": "turbo",
         "name": "Turbo",
         "symbol": "TURBO",
         "decimals": 18,
@@ -720,6 +797,7 @@
         "l2_token_address": "0x06f1497a5c7638720255dad058fba4f886b337b523b113ff6880f3b9fa81dc4b"
     },
     {
+        "id": "people",
         "name": "ConstitutionDAO",
         "symbol": "PEOPLE",
         "decimals": 18,
@@ -727,6 +805,36 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x04bd992b5c9fcbe240aa49d2f03391854d6d3792b2eb187b36a9b57e0e4576c5"
+    },
+    {
+        "id": "bgb",
+        "name": "BitgetToken",
+        "symbol": "BGB",
+        "decimals": 18,
+        "l1_token_address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00310dbf35cc5e9a40e1feca3e8e76204f97a6abab4e49b684b66903a4802f99"
+    },
+    {
+        "id": "spx",
+        "name": "SPX6900",
+        "symbol": "SPX",
+        "decimals": 8,
+        "l1_token_address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x013673c0beca6017b2354b6ee6577e1d6b1caf156ff1c8d9d1b9a3009414756e"
+    },
+    {
+        "id": "virtual",
+        "name": "Virtual Protocol",
+        "symbol": "VIRTUAL",
+        "decimals": 18,
+        "l1_token_address": "0x44ff8620b8cA30902395A7bD3F2407e1A091BF73",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0343222014d664860a84cbf3dff729bf6863a135c3c032360ef6aaf5e82e76bf"
     },
     {
         "name": "MultiBridge",

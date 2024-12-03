@@ -882,5 +882,205 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x0211fb14971ced912efc50897f8e69131fd998f1900b34902ff168914d2ae4f5"
+    },
+    {
+        "id": "paxg",
+        "name": "Paxos Gold",
+        "symbol": "PAXG",
+        "decimals": 18,
+        "l1_token_address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x067b7c29e695ea4fc3fab3abca5192cc7d7060c100e33865a1e8ff6c68aa719e"
+    },
+    {
+        "id": "nog",
+        "name": "Nog",
+        "symbol": "NOG",
+        "decimals": 18,
+        "l1_token_address": "0x1F069f80983c4A5922CaaA69Ce7e1640D29D1557",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00119cead294cfc93f91068f201adf391a32799f6aaeaaf006face27720fc139"
+    },
+    {
+        "id": "zend",
+        "name": "zkLend Token",
+        "symbol": "ZEND",
+        "decimals": 18,
+        "l1_token_address": "0xb2606492712D311be8f41d940AFE8CE742A52D44",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00585c32b625999e6e5e78645ff8df7a9001cf5cf3eb6b80ccdd16cb64bd3a34"
+    },
+    {
+        "id": "stusd",
+        "name": "Staked USDA",
+        "symbol": "stUSD",
+        "decimals": 18,
+        "l1_token_address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03b992772a23dfd3280501e6446c5e3d1f4e47b79a7160b010efa28b22fe6476"
+    },
+    {
+        "id": "steur",
+        "name": "Staked EURA",
+        "symbol": "stEUR",
+        "decimals": 18,
+        "l1_token_address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03d66fa7694b3ea555e9e11c8445099153902d6c574140c329a427472c1c6bc2"
+    },
+    {
+        "id": "ekubo",
+        "name": "Ekubo Protocol",
+        "symbol": "EKUBO",
+        "decimals": 18,
+        "l1_token_address": "0x04C46E830Bb56ce22735d5d8Fc9CB90309317d0f",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x075afe6402ad5a5c20dd25e10ec3b3986acaa647b77e4ae24b0cbc9a54a27a87"
+    },
+    {
+        "id": "mvi",
+        "name": "Metaverse Index",
+        "symbol": "MVI",
+        "decimals": 18,
+        "l1_token_address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x05374069dd071abef7ed0a5d39eaaabcdd49d0caa4fef89664a9d247c62282b6"
+    },
+    {
+        "id": "dpi",
+        "name": "DefiPulse Index",
+        "symbol": "DPI",
+        "decimals": 18,
+        "l1_token_address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0448557540a3708f81fdd2a972b1f989c0cb4d34913cd50a148a310e1dc15b69"
+    },
+    {
+        "id": "nstr",
+        "name": "Nostra",
+        "symbol": "NSTR",
+        "decimals": 18,
+        "l1_token_address": "0x610dBd98A28EbbA525e9926b6aaF88f9159edbfd",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00c530f2c0aa4c16a0806365b0898499fba372e5df7a7172dc6fe9ba777e8007"
+    },
+    {
+        "id": "deth",
+        "name": "Dunes ETH",
+        "symbol": "dETH",
+        "decimals": 18,
+        "l1_token_address": "0xb23a076D4d6507bb309607026Ce5FdF8b45E155f",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0391169d35d787588c25b4a2527c13a61e6fdc598a655f5226303602ac73508d"
+    },
+    {
+        "id": "bnb",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "l1_token_address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x00eacceae729b4552d52b4de2dae5287d25fd9cb66761a785ad10969f3349678"
+    },
+    {
+        "id": "near",
+        "name": "NEAR",
+        "symbol": "NEAR",
+        "decimals": 24,
+        "l1_token_address": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03aa4965f97d19448b71deff08ead5d04e241f6360b3503acb38e87e18f13d47"
+    },
+    {
+        "id": "arb",
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "decimals": 18,
+        "l1_token_address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x03070d5cbd310edc0b2cfe8b11d132e67718b16c7fbfd536ee74ec54a4307ba2"
+    },
+    {
+        "id": "matic",
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "l1_token_address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0340453d64be6c34baf1a92345755dd7a38079ee6cdb881784158a0db9d14a19"
+    },
+    {
+        "id": "pepe",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "l1_token_address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x04229dea0c8f38a6b9a93313f5a26bcd8923e4faa2d839cbfcbee1e847cc2abe"
+    },
+    {
+        "id": "shib",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "l1_token_address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02119755fad7cbf637d80cae5d3e8e12487befe6653ddd04432a73f6f569f46b"
+    },
+    {
+        "id": "floki",
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "l1_token_address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0299b16ebf8ddc3bb9957ec2a03cc01f2efba7efbba76886011009a050a3b6c6"
+    },
+    {
+        "id": "trump",
+        "name": "MAGA",
+        "symbol": "TRUMP",
+        "decimals": 9,
+        "l1_token_address": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x05a1af084f801e874639e1d4bc0225a3d9b13878dbd7e169317971d1b94e59a9"
+    },
+    {
+        "id": "hnst",
+        "name": "HN S Test Token",
+        "symbol": "HNST",
+        "decimals": 18,
+        "l1_token_address": "0xaf8E1AD06Fd19652299CFfd7e39c13e96acA4765",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x07ca707f3147a2330dacce6fe517ace038514e40ad898bc7bee32b80fc95c9bc"
+    },
+    {
+        "id": "sstrk",
+        "name": "Staked Starknet Token",
+        "symbol": "sSTRK",
+        "decimals": 18,
+        "l1_token_address": "0x96395fa6069e769A852EC6E28cb837da72d145f3",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0356f304b154d29d2a8fe22f1cb9107a9b564a733cf6b4cc47fd121ac1af90c9"
     }
 ]

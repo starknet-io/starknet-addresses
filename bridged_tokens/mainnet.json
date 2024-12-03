@@ -72,9 +72,10 @@
         "symbol": "DAI",
         "decimals": 18,
         "l1_token_address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "l1_bridge_address": "0xCA14057f85F2662257fd2637FdEc558626bCe554",
-        "l2_bridge_address": "0x07754236934aeaf4c29d287b94b5fde8687ba7d59466ea6b80f3f57d6467b7d6",
-        "l2_token_address": "0x05574eb6b8789a91466f902c380d978e472db68170ff82a5b650b95a58ddf4ad"
+        "l1_bridge_address": "0x9F96fE0633eE838D0298E8b8980E6716bE81388d",
+        "l2_bridge_address": "0x075ac198e734e289a6892baa8dd14b21095f13bf8401900f5349d5569c3f6e60",
+        "l2_token_address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c7537ad5ae66fe5e0efd20e6eb3",
+        "comment": "Dai v0"
     },
     {
         "id": "wsteth",

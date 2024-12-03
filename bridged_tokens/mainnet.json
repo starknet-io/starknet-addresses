@@ -842,5 +842,45 @@
         "StarkgateRegistry": "0x1268cc171c54F2000402DfF20E93E60DF4c96812",
         "StarknetTokenBridge": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_token_bridge": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256"
+    },
+    {
+        "id": "crv",
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "decimals": 18,
+        "l1_token_address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02c074b8c26e1060031fb73f5b2d243e6713cb44647f68e7798beeb9443f585f"
+    },
+    {
+        "id": "hot",
+        "name": "HoloToken",
+        "symbol": "HOT",
+        "decimals": 18,
+        "l1_token_address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0217a51f49af3122298a69477dfd7cca6bbb8d6b17e8cc347af8c399efead0d7"
+    },
+    {
+        "id": "1inch",
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "decimals": 18,
+        "l1_token_address": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x020f0f73c4906b1f6732f10e93f378c610ebdd2ac74d2fa7a36fdbf7f7b16510"
+    },
+    {
+        "id": "enj",
+        "name": "Enjin Coin",
+        "symbol": "ENJ",
+        "decimals": 18,
+        "l1_token_address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x0211fb14971ced912efc50897f8e69131fd998f1900b34902ff168914d2ae4f5"
     }
 ]

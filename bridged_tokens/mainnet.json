@@ -235,7 +235,8 @@
         "l1_token_address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x05e55c3f6d963e85b8bba613ed7a670c4b5bdae5dcb51e9cb7786f81c42a1c01"
+        "l2_token_address": "0x05e55c3f6d963e85b8bba613ed7a670c4b5bdae5dcb51e9cb7786f81c42a1c01",
+        "comment": "Deposit blocked"
     },
     {
         "id": "okb",
@@ -265,7 +266,8 @@
         "l1_token_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x027cae52682697d91302dd45b398ff9ac7af058e0cc02bdc9d17edfae19e0c02"
+        "l2_token_address": "0x027cae52682697d91302dd45b398ff9ac7af058e0cc02bdc9d17edfae19e0c02",
+        "comment": "Deposit blocked"
     },
     {
         "id": "cro",
@@ -455,7 +457,8 @@
         "l1_token_address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x049ccfa008974dfdc74b9a5015cfeea880b6096a517ac56b2ea81e2e06f19331"
+        "l2_token_address": "0x049ccfa008974dfdc74b9a5015cfeea880b6096a517ac56b2ea81e2e06f19331",
+        "comment": "Deposit blocked"
     },
     {
         "id": "ena",
@@ -465,7 +468,8 @@
         "l1_token_address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x034622a9e75600824d9d068c00398125c60b3edba465328ea024e7c7a1f80beb"
+        "l2_token_address": "0x034622a9e75600824d9d068c00398125c60b3edba465328ea024e7c7a1f80beb",
+        "comment": "Deposit blocked"
     },
     {
         "id": "gala",
@@ -495,7 +499,8 @@
         "l1_token_address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x03487c74ff7ffd5dc3c1c608e209971af9b25983af29f59f75b7f1c3ebfbc0de"
+        "l2_token_address": "0x03487c74ff7ffd5dc3c1c608e209971af9b25983af29f59f75b7f1c3ebfbc0de",
+        "comment": "Deposit blocked"
     },
     {
         "id": "axs",
@@ -535,7 +540,8 @@
         "l1_token_address": "0x808507121B80c02388fAd14726482e061B8da827",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x0224426a2edf5742ba932bd10d1649b907daee08c7c751aa7041d1df2149e0a8"
+        "l2_token_address": "0x0224426a2edf5742ba932bd10d1649b907daee08c7c751aa7041d1df2149e0a8",
+        "comment": "Deposit blocked"
     },
     {
         "id": "sand",
@@ -565,7 +571,8 @@
         "l1_token_address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x0178b3fe63dd841fe16eaf8db9679fa7de4ab4fc1508da0e3f995e11c97abc0d"
+        "l2_token_address": "0x0178b3fe63dd841fe16eaf8db9679fa7de4ab4fc1508da0e3f995e11c97abc0d",
+        "comment": "Deposit blocked"
     },
     {
         "id": "chz",
@@ -635,7 +642,8 @@
         "l1_token_address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x04eabc1ff68bd799226d3461ab10f5c15e87d8c06116c392cdf84a066de82776"
+        "l2_token_address": "0x04eabc1ff68bd799226d3461ab10f5c15e87d8c06116c392cdf84a066de82776",
+        "comment": "Deposit blocked"
     },
     {
         "id": "snx",

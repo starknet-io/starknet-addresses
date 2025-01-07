@@ -1091,5 +1091,15 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x0356f304b154d29d2a8fe22f1cb9107a9b564a733cf6b4cc47fd121ac1af90c9"
+    },
+    {
+        "id": "link",
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "l1_token_address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "l1_bridge_address": "0x9FaDA9F29492Af64A852f35EAfd957b790B7ea7E",
+        "l2_bridge_address": "0x0028db8d8b55770675e2ea79382290772368d88b1f9b83eb3e956700447735bc",
+        "l2_token_address": "0x060f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9"
     }
 ]

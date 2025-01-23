@@ -67,6 +67,26 @@
         "l1_bridge_address": "0xaCbb1B9021eC68370B9821d5F36ddE26796bb436",
         "l2_bridge_address": "0x0172393a285eeac98ea136a4be473986a58ddd0beaf158517bc32166d0328824",
         "l2_token_address": "0x030de54c07e57818ae4a1210f2a3018a0b9521b8f8ae5206605684741650ac25"
+    },
+    {
+        "id": "crz",
+        "name": "CrazyHorse",
+        "symbol": "CRZ",
+        "decimals": 18,
+        "l1_token_address": "0x2d11d2bE7376643a99E521CCAad89d2FA3b36073",
+        "l1_bridge_address": "0x32311bd81D6DC4087648dF6edeF1F20E289A43AC",
+        "l2_bridge_address": "0x06377bf6c98d2e7acc3b5792f77ee0763a71b545f4343cd97b9421986d76f470",
+        "l2_token_address": "0x0246d951dfaf3ef239302533d6280bef384873b6f3ac4993c4f5563aea81d06b"
+    },
+    {
+        "id": "ekubo",
+        "name": "Ekubo Protocol",
+        "symbol": "EKUBO",
+        "decimals": 18,
+        "l1_token_address": "0x618C25b11a5e9B5Ad60B04bb64FcBdfBad7621d1",
+        "l1_bridge_address": "0xF6217de888fD6E6b2CbFBB2370973BE4c36a152D",
+        "l2_bridge_address": "0x01fd5ad689cec587e80a3d380b5b47ff082203e118bdd22b77256ffa379b15d9",
+        "l2_token_address": "0x01fad7c03b2ea7fbef306764e20977f8d4eae6191b3a54e4514cc5fc9d19e569"
     }
 ]
 

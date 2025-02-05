@@ -1101,5 +1101,35 @@
         "l1_bridge_address": "0x9FaDA9F29492Af64A852f35EAfd957b790B7ea7E",
         "l2_bridge_address": "0x0028db8d8b55770675e2ea79382290772368d88b1f9b83eb3e956700447735bc",
         "l2_token_address": "0x060f47b96b525c1014fed595e87e98edc3ce0731627a0670e1804ee1a3ca0ee9"
+    },
+    {
+        "id": "move",
+        "name": "Movement",
+        "symbol": "MOVE",
+        "decimals": 8,
+        "l1_token_address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x06e55c73f4a1fbd21b8db58dc205df62cf461a10756d43ca6b88d453c07d181f"
+    },
+    {
+        "id": "bio",
+        "name": "BIO",
+        "symbol": "BIO",
+        "decimals": 18,
+        "l1_token_address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x046e3f68142ff13883273fc538213a0d24e415d48a0b5c487a55497235c8db03"
+    },
+    {
+        "id": "rsr",
+        "name": "Reserve Rights",
+        "symbol": "RSR",
+        "decimals": 18,
+        "l1_token_address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x06805eb773a7dc50c84290c9708c22393596325f330bcc32eacc111790d93210"
     }
 ]

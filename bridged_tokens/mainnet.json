@@ -264,10 +264,9 @@
         "symbol": "AAVE",
         "decimals": 18,
         "l1_token_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
-        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x027cae52682697d91302dd45b398ff9ac7af058e0cc02bdc9d17edfae19e0c02",
-        "comment": "Deposit blocked"
+        "l1_bridge_address": "0x3cDe3eE221aD64d096C92e0F750Feb8A750519A8",
+        "l2_bridge_address": "0x07b8093075fe02cd1e596f1a6bcb2aea1ff84698e1cec42012336f27fc976d87",
+        "l2_token_address": "0x02f5eb9a4f77b6c7c83488418e77329d31eb43219745959948a0fce9580905d9"
     },
     {
         "id": "cro",

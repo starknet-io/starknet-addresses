@@ -1129,5 +1129,15 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x06805eb773a7dc50c84290c9708c22393596325f330bcc32eacc111790d93210"
+    },
+    {
+        "id": "enzobtc",
+        "name": "Lorenzo Wrapped Bitcoin",
+        "symbol": "enzoBTC",
+        "decimals": 8,
+        "l1_token_address": "0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a",
+        "l1_bridge_address": "0x30A155a161f6b5f4C0226C3744C4d69eEfDbf483",
+        "l2_bridge_address": "0x01cdc690d569bd29f07fcf76d775289c3f6daa717e43de9a7faa16acc797c6c4",
+        "l2_token_address": "0x057a66754ba6c64c1705a007e8b5e7d17a88593234fb854a1e111f2bfce65450"
     }
 ]

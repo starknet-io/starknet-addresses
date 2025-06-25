@@ -1139,5 +1139,15 @@
         "l1_bridge_address": "0x30A155a161f6b5f4C0226C3744C4d69eEfDbf483",
         "l2_bridge_address": "0x01cdc690d569bd29f07fcf76d775289c3f6daa717e43de9a7faa16acc797c6c4",
         "l2_token_address": "0x057a66754ba6c64c1705a007e8b5e7d17a88593234fb854a1e111f2bfce65450"
+    },
+    {
+        "id": "solvbtc",
+        "name": "Solv BTC",
+        "symbol": "SolvBTC",
+        "decimals": 18,
+        "l1_token_address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
+        "l1_bridge_address": "0xA86b9b9c58d4f786F8ea89356c9c9Dde9432Ab10",
+        "l2_bridge_address": "0x032c68653622292bedf0ed6d941888a01d3923c7f4eb633a0c08c5497a1f5f58",
+        "l2_token_address": "0x0593e034dda23eea82d2ba9a30960ed42cf4a01502cc2351dc9b9881f9931a68"
     }
 ]

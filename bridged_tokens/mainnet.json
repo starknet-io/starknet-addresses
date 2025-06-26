@@ -1131,6 +1131,16 @@
         "l2_token_address": "0x06805eb773a7dc50c84290c9708c22393596325f330bcc32eacc111790d93210"
     },
     {
+        "id": "pumpbtc",
+        "name": "pumpBTC",
+        "symbol": "pumpBTC",
+        "decimals": 8,
+        "l1_token_address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
+        "l1_bridge_address": "0x9aAA37e5bf214E6446Bb7f1690876410C996860e",
+        "l2_bridge_address": "0x00c0b5dc25ae1a0f11f459cb2b8a43faaa7047e6f8bde3ea786e7417faf780d9",
+        "l2_token_address": "0x061c68717c10da8adf6bd5cda6840510d6e70c62fcf96d25a57bfcf2932beca6"
+    },
+    {
         "id": "enzobtc",
         "name": "Lorenzo Wrapped Bitcoin",
         "symbol": "enzoBTC",
@@ -1149,5 +1159,15 @@
         "l1_bridge_address": "0xA86b9b9c58d4f786F8ea89356c9c9Dde9432Ab10",
         "l2_bridge_address": "0x032c68653622292bedf0ed6d941888a01d3923c7f4eb633a0c08c5497a1f5f58",
         "l2_token_address": "0x0593e034dda23eea82d2ba9a30960ed42cf4a01502cc2351dc9b9881f9931a68"
+    },
+    {
+        "id": "rusdc-stark",
+        "name": "Relend Network USDC - Starknet",
+        "symbol": "rUSDC-stark",
+        "decimals": 6,
+        "l1_token_address": "0x275bf5c13DE6a96aE1718bBb053AB1ADb006e867",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2af4166928b0de6e89f06de6c"
     }
 ]

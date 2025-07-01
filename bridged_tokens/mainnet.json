@@ -1169,5 +1169,15 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2af4166928b0de6e89f06de6c"
+    },
+    {
+        "id": "usr",
+        "name": "Resolv USD",
+        "symbol": "USR",
+        "decimals": 18,
+        "l1_token_address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+        "l1_bridge_address": "0x6F3229B9056bC42F147f309B10877cC5919EeFd5",
+        "l2_bridge_address": "0x07a17b56fb56830807c1f59faf8c3e20a1d48292b018b4f5ef5d9e349ae7013e",
+        "l2_token_address": "0x0436ba0542f4a05047d4d045c4f9b51e8d1c9d6a3812b9a2bd91b4ae3d2532a0"
     }
 ]

@@ -633,17 +633,6 @@
         "l2_token_address": "0x079cb2d53e1e0394a2ecf2ee6e8cf1823e5f7120d638a5ecd4980ee51b150e5a"
     },
     {
-        "id": "zro",
-        "name": "LayerZero",
-        "symbol": "ZRO",
-        "decimals": 18,
-        "l1_token_address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
-        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
-        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
-        "l2_token_address": "0x04eabc1ff68bd799226d3461ab10f5c15e87d8c06116c392cdf84a066de82776",
-        "comment": "Deposit blocked"
-    },
-    {
         "id": "snx",
         "name": "Synthetix Network Token",
         "symbol": "SNX",
@@ -1179,5 +1168,15 @@
         "l1_bridge_address": "0x6F3229B9056bC42F147f309B10877cC5919EeFd5",
         "l2_bridge_address": "0x07a17b56fb56830807c1f59faf8c3e20a1d48292b018b4f5ef5d9e349ae7013e",
         "l2_token_address": "0x0436ba0542f4a05047d4d045c4f9b51e8d1c9d6a3812b9a2bd91b4ae3d2532a0"
+    },
+    {
+        "id": "zro",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "decimals": 18,
+        "l1_token_address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+        "l1_bridge_address": "0x52c65B6795216c4D76fAcACdE8B5f4BAd2c9b9d7",
+        "l2_bridge_address": "0x04b61b603821164c38f3f3cf552a24b3d7fd0710d40d84a0dcf765bb625d0f01",
+        "l2_token_address": "0x01e77aec81ef65db5fb788a5a04fd9d23f6f4c860eb2fb0e99ace5c45b021071"
     }
 ]

@@ -1178,5 +1178,25 @@
         "l1_bridge_address": "0x52c65B6795216c4D76fAcACdE8B5f4BAd2c9b9d7",
         "l2_bridge_address": "0x04b61b603821164c38f3f3cf552a24b3d7fd0710d40d84a0dcf765bb625d0f01",
         "l2_token_address": "0x01e77aec81ef65db5fb788a5a04fd9d23f6f4c860eb2fb0e99ace5c45b021071"
+    },
+    {
+        "id": "unibtc",
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "decimals": 8,
+        "l1_token_address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
+        "l1_bridge_address": "0x4ea91eD5A1f5e2Be18791F210C52d0fe285744d5",
+        "l2_bridge_address": "0x006f04d4e0dd89ee364650ae5264e7cfeb8fd567913d3be9a332e50f2b612810",
+        "l2_token_address": "0x023a312ece4a275e38c9fc169e3be7b5613a0cb55fe1bece4422b09a88434573"
+    },
+    {
+        "id": "brbtc",
+        "name": "brBTC",
+        "symbol": "brBTC",
+        "decimals": 8,
+        "l1_token_address": "0x2eC37d45FCAE65D9787ECf71dc85a444968f6646",
+        "l1_bridge_address": "0x1febb800fa36938Fdb6131c643C72dfAB91633bb",
+        "l2_bridge_address": "0x061bf111d6e862a749f6a5c62ab6ecf76795a83eca92bb0187a99f43818d42b9",
+        "l2_token_address": "0x039a41cb1ca8b375568f20a5bf91318e05c1e4f226437c493f461df309bf99d5"
     }
 ]

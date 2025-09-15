@@ -1198,5 +1198,15 @@
         "l1_bridge_address": "0x1febb800fa36938Fdb6131c643C72dfAB91633bb",
         "l2_bridge_address": "0x061bf111d6e862a749f6a5c62ab6ecf76795a83eca92bb0187a99f43818d42b9",
         "l2_token_address": "0x039a41cb1ca8b375568f20a5bf91318e05c1e4f226437c493f461df309bf99d5"
+    },
+    {
+        "id": "lbtc",
+        "name": "Lombard Staked Bitcoin",
+        "symbol": "LBTC",
+        "decimals": 8,
+        "l1_token_address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+        "l1_bridge_address": "0x96C8AE2AC9A5cd5fC354e375dB4d0ca75fc0685e",
+        "l2_bridge_address": "0x0239eee60e6d0bed42315ac74a1fc43db8074646d4d2a0a9e6fa5272685a0eb5",
+        "l2_token_address": "0x036834a40984312f7f7de8d31e3f6305b325389eaeea5b1c0664b2fb936461a4"
     }
 ]

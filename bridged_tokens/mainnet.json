@@ -1208,5 +1208,15 @@
         "l1_bridge_address": "0x96C8AE2AC9A5cd5fC354e375dB4d0ca75fc0685e",
         "l2_bridge_address": "0x0239eee60e6d0bed42315ac74a1fc43db8074646d4d2a0a9e6fa5272685a0eb5",
         "l2_token_address": "0x036834a40984312f7f7de8d31e3f6305b325389eaeea5b1c0664b2fb936461a4"
+    },
+    {
+        "id": "mre7btc",
+        "name": "Midas Re7 BTC",
+        "symbol": "mRe7BTC",
+        "decimals": 18,
+        "l1_token_address": "0x9FB442d6B612a6dcD2acC67bb53771eF1D9F661A",
+        "l1_bridge_address": "0x7a095101eF5c7a66056f801335F8605d3b2452a5",
+        "l2_bridge_address": "0x0639069b8c2daef5a245fc82b7be76f44dad088f078a99c17eb5f157af7463cc",
+        "l2_token_address": "0x04e4fb1a9ca7e84bae609b9dc0078ad7719e49187ae7e425bb47d131710eddac"
     }
 ]

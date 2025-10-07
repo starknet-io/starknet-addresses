@@ -1218,5 +1218,15 @@
         "l1_bridge_address": "0x7a095101eF5c7a66056f801335F8605d3b2452a5",
         "l2_bridge_address": "0x0639069b8c2daef5a245fc82b7be76f44dad088f078a99c17eb5f157af7463cc",
         "l2_token_address": "0x04e4fb1a9ca7e84bae609b9dc0078ad7719e49187ae7e425bb47d131710eddac"
+    },
+    {
+        "id": "cana",
+        "name": "CANA Holdings California Carbon Credits",
+        "symbol": "CANA",
+        "decimals": 18,
+        "l1_token_address": "0x01995A697752266d8E748738aAa3F06464B8350B",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x023B5A53775fAd266C8a296c7C595C46072c4Fc0cCF557d63afBcC11C2D915C1"
     }
 ]

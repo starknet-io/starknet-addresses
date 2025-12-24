@@ -1218,5 +1218,15 @@
         "l1_bridge_address": "0x7a095101eF5c7a66056f801335F8605d3b2452a5",
         "l2_bridge_address": "0x0639069b8c2daef5a245fc82b7be76f44dad088f078a99c17eb5f157af7463cc",
         "l2_token_address": "0x04e4fb1a9ca7e84bae609b9dc0078ad7719e49187ae7e425bb47d131710eddac"
+    },
+    {
+        "id": "ggmt",
+        "name": "Green Grey MetaGame Token",
+        "symbol": "GGMT",
+        "decimals": 18,
+        "l1_token_address": "0x76aAb5FD2243d99EAc92d4d9EBF23525d3ACe4Ec",
+        "l1_bridge_address": "0x448Acb9F2e57a409a60Cf8901EA4123b6E2EC253",
+        "l2_bridge_address": "0x033cfdafdb07aa0f829f36ed981cab9b6c3dd7c0e2ca9272dcf9ae221dbf1964",
+        "l2_token_address": "0x0048dffcc755b218b68015279ae1f31c087bd5bc0f89e982cf63a664a527aa59"
     }
 ]

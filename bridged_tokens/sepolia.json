@@ -87,6 +87,15 @@
         "l1_bridge_address": "0xF6217de888fD6E6b2CbFBB2370973BE4c36a152D",
         "l2_bridge_address": "0x01fd5ad689cec587e80a3d380b5b47ff082203e118bdd22b77256ffa379b15d9",
         "l2_token_address": "0x01fad7c03b2ea7fbef306764e20977f8d4eae6191b3a54e4514cc5fc9d19e569"
+    },
+    {
+        "id": "eurc",
+        "name": "EURC",
+        "symbol": "EURC",
+        "decimals": 6,
+        "l1_token_address": "0x08210F9170F89Ab7658F0B5E3fF39b0E03C594D4",
+        "l1_bridge_address": "0x22f455681CcD034fbb56BD4824aF20Ab90a0f52f",
+        "l2_bridge_address": "0x059a016651dd2c6070f34851512fb6f3bf26710cd80a9b09a55fa64674a4a8e2",
+        "l2_token_address": "0x004804ed21cd073a1058e3e6a6769930a021f058801954d1da7d79ec84800016"
     }
 ]
-

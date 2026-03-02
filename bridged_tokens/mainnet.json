@@ -1228,5 +1228,15 @@
         "l1_bridge_address": "0x448Acb9F2e57a409a60Cf8901EA4123b6E2EC253",
         "l2_bridge_address": "0x033cfdafdb07aa0f829f36ed981cab9b6c3dd7c0e2ca9272dcf9ae221dbf1964",
         "l2_token_address": "0x0048dffcc755b218b68015279ae1f31c087bd5bc0f89e982cf63a664a527aa59"
+    },
+    {
+        "id": "eurc",
+        "name": "Euro Coin",
+        "symbol": "EURC",
+        "decimals": 6,
+        "l1_token_address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+        "l1_bridge_address": "0x00b0466f8dC04B0782DbF1A1DfdCe333F0Dd082B",
+        "l2_bridge_address": "0x01f15367623cb89b2a8f745dd04744080630ce43fd02f4591fe445d4fedd94aa",
+        "l2_token_address": "0x03a37a5469012cd1f3f69de2b174dd77abac6b360a0989ea573d9b41c5c2eae8"
     }
 ]

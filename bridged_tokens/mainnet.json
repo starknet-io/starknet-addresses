@@ -1238,5 +1238,15 @@
         "l1_bridge_address": "0x00b0466f8dC04B0782DbF1A1DfdCe333F0Dd082B",
         "l2_bridge_address": "0x01f15367623cb89b2a8f745dd04744080630ce43fd02f4591fe445d4fedd94aa",
         "l2_token_address": "0x03a37a5469012cd1f3f69de2b174dd77abac6b360a0989ea573d9b41c5c2eae8"
+    },
+    {
+        "id": "lit",
+        "name": "Lighter",
+        "symbol": "LIT",
+        "decimals": 18,
+        "l1_token_address": "0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2",
+        "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
+        "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
+        "l2_token_address": "0x06557d79fc6cdce28c1eba2b1024cb854394a36e44ef4c43a8522c71b321a80e"
     }
 ]

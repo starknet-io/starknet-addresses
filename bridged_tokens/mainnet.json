@@ -1248,5 +1248,15 @@
         "l1_bridge_address": "0xF5b6Ee2CAEb6769659f6C091D209DfdCaF3F69Eb",
         "l2_bridge_address": "0x0616757a151c21f9be8775098d591c2807316d992bbc3bb1a5c1821630589256",
         "l2_token_address": "0x06557d79fc6cdce28c1eba2b1024cb854394a36e44ef4c43a8522c71b321a80e"
+    },
+    {
+        "id": "europ",
+        "name": "EURØP",
+        "symbol": "EUROP",
+        "decimals": 6,
+        "l1_token_address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
+        "l1_bridge_address": "0x4c4eE256fFE216a23A39827bcd4C5CB0b6cf11F3",
+        "l2_bridge_address": "0x0278efd5184f23116a9058cc4c4e34b30b4ee959535d4fad15d103e71f7d8a3e",
+        "l2_token_address": "0x1bd3f40883d90e60c171dff3da450f3cecd13315708f2fb97dea785207605b5"
     }
 ]
